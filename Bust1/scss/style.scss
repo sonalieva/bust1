@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0 ;
+}
+
+main{
+    .first-section{
+        padding: 60px 30px;
+        margin-bottom: 30px;
+        background-color: #e9ecef;
+        border-radius: 4px;
+    }
+    
+    hr{
+        margin-top: 15px;
+        border: 0;
+        margin-bottom: 15px;
+        border-top: 1px solid rgba(23, 22, 22, 0.1);
+    }
+}
+.last{
+    max-width: 1000px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
